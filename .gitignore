@@ -1,0 +1,15 @@
+**/__pycache__
+checkpoints/**
+visualization/**
+tensorboard_log/**
+log/**
+data/celeba/**
+data/cub200/**
+!data/celeba/annotation.zip
+!data/celeba/data_processing.sh
+/src/cub200/checkpoints
+/src/cub200/log
+/src/cub200/tensorboard_log
+/src/cub200/visualization
+/src/inat3mini/nice_results_1
+/src/inat3mini/nice_results_2
